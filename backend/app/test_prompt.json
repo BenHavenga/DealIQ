@@ -1,0 +1,5 @@
+{
+  "model": "llama3.2",
+  "prompt": "You are a JSON‐only assistant. Reply WITH ONLY valid JSON. Output exactly: {\"foo\":\"bar\"}. No extra text.",
+  "stream": false
+}
